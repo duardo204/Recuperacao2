@@ -1,0 +1,16 @@
+body{
+    padding-left: 2%;
+    background-color: rgb(148, 140, 175);
+}
+.titulo{
+    font-size: 80px;
+}
+p{
+    font-size: 30px;
+    padding-right: 15%;
+}
+#queen3__imagem{
+    margin-left: 5%;
+    width: 33%;
+    
+}
