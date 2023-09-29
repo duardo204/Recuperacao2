@@ -1,0 +1,32 @@
+body{
+    padding-left: 2%;
+    background-color: rgb(148, 140, 175);
+}
+.titulo{
+    font-size: 80px;
+}
+p{
+    font-size: 30px;
+    padding-right: 15%;
+}
+#queen3__imagem{
+    margin-left: 5%;
+    width: 33%;
+    
+}
+header{
+    border: solid black;
+    background-color: rgb(128, 50, 173);
+    padding-left: 5vh;
+}
+.lista__cabeçalho{
+    display: flex;
+    padding-inline-start: 0px;
+}
+.item__cabeçalho{
+    
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 10px;
+}
